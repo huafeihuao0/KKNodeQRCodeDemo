@@ -1,0 +1,19 @@
+{
+  "name": "kknodeqrcodedemo",
+  "version": "1.0.0",
+  "description": "node二维码测试工程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huafeihuao0/KKNodeQRCodeDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huafeihuao0/KKNodeQRCodeDemo/issues"
+  },
+  "homepage": "https://github.com/huafeihuao0/KKNodeQRCodeDemo#readme"
+}
