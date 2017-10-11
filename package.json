@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/huafeihuao0/KKNodeQRCodeDemo/issues"
   },
-  "homepage": "https://github.com/huafeihuao0/KKNodeQRCodeDemo#readme"
+  "homepage": "https://github.com/huafeihuao0/KKNodeQRCodeDemo#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "qr-image": "^3.2.0"
+  }
 }
